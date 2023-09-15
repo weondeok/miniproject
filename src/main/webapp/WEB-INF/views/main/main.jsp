@@ -25,11 +25,7 @@
                             <li><a href="#">Ocean Foods</a></li>
                             <li><a href="#">Butter & Eggs</a></li>
                             <li><a href="aaaa.do">Fastfood</a></li>
-                            <li><a href="#">Fresh Onion</a></li>
-                            <li><a href="qweWFR#">Papayaya & Crisps</a></li>
-                            <li><a href="ADFADSF#">Oatmeal</a></li>
-                            <li><a href="ADFADSF#">Fresh Bananas</a></li>
-                        </ul>
+                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-9">
